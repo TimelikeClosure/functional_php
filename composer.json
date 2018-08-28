@@ -1,0 +1,19 @@
+{
+    "name": "timelikeclosure/functional_php",
+    "description": "Code for functional PHP 7.1",
+    "type": "project",
+    "require": {
+        "kapolos/pramda": "dev-master",
+        "illuminate/database": "^5.3"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "5.0.8",
+        "phpspec/phpspec": "~2.1"
+    },
+    "authors": [
+        {
+            "name": "Tim Horist",
+            "email": "TimelikeClosure@users.noreply.github.com"
+        }
+    ]
+}
